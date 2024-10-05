@@ -5,6 +5,12 @@ This project implements a real-time gesture detection system using **MediaPipe**
 
 The script also demonstrates how to draw emojis and text on frames captured by a webcam using **OpenCV** and **PIL (Pillow)**. Emojis like ❤️ (Heart), 🤦 (Facepalm), and 👍 (Thumbs Up) are displayed based on the detected gestures. Additionally, a floating animation effect is applied to these emojis, which move upward before disappearing after a short time.
 
+
+
+https://github.com/user-attachments/assets/46d2fd71-3ae9-4ab6-a1a9-24f76a34c863
+
+
+
 ## Features
 
 - **Gesture Recognition**: Detects several hand gestures, including:
